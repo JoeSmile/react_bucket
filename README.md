@@ -1,4 +1,4 @@
-## some knowledge and urls about react redux and so on 
+# some knowledge and urls about react redux and so on 
 
 
 # react 
@@ -48,4 +48,11 @@
 ## mobx-react -- @observable
 
 
+
+
+# vue
+
+## vuex
+
+## vue-router
 
