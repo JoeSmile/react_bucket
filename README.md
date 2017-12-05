@@ -2,57 +2,39 @@
 
 
 # react 
+官网：
+https://reactjs.org/docs/hello-world.html
 
-## jsx
+creat-reate-app 快速构建react项目：
+https://github.com/facebookincubator/create-react-app
 
-## lifecycle
+## jsx lifecycle state props hoc
+`class App extends React.Component {`
+   `construct() {
+        super(props)
+        this.state = {
+            data: []
+        }
+    },`
 
-## state
+   `componentWillMount(){},`
 
-## props
+   `render(){},`
 
-## hoc
-
-## react-router
-
-
-
+   `componentDidMount(){}`
+}`
 
 # redux
+## store action reducer
+官网：http://www.redux.org.cn/
 
-## store
+https://github.com/JoeSmile/jest2react (测试redux的demo)
 
-## action
-
-## reducer
-
-## middleware
-
-## redux-actions
-
-## react-router-redux
-
-## redux-form
+![Redux](http://images2015.cnblogs.com/blog/593627/201604/593627-20160418100233882-504389266.png)
 
 
 # mobx
+## action observable autorun computed
 
-## action 
-
-## observable
-
-## autorun
-
-## computed
-
-## mobx-react -- @observable
-
-
-
-
-# vue
-
-## vuex
-
-## vue-router
+https://github.com/JoeSmile/mobx_react_introduction
 
